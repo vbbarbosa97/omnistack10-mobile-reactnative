@@ -1,0 +1,10 @@
+1 - expo init nome_projeto
+2 - yarn add react-navigation
+3 - expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+4 - yarn add react-navigation-stack @react-native-community/masked-view 
+5 - expo install react-native-maps //API do expo de mapa
+6 - yarn add styled-components
+7 - expo install expo-location // traz a localização do usuario
+8 - expo install react-native-webview
+9 - yarn add axios
+10 - yarn add socket.io-client
